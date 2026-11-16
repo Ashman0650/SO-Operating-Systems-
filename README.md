@@ -11,4 +11,4 @@ Steps to install and run the project
 # Usage
 The user will run the Student Grade Calculator through the Linux terminal. A menu will appear displaying the six available features. The user can select an option by entering its corresponding number. They can then input their grades, calculate averages, check pass/fail status, view their highest and lowest grades, or find out what marks they need to achieve their desired final grade. The application will display the results in the terminal and save student records in a text file.
 # authors 
-Ashman khakh, Ahmad Salkini & Bhuvensh Sharma 
+Ashman khakh, Ahmad Salkini and Bhuvensh Sharma !!!
